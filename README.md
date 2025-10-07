@@ -1,4 +1,4 @@
-# 🌐 Zaini Official
+# ❖ Zaini Official
 
 Welcome to my official GitHub!  
 I’m **Zain Ali**, also known as **Zaini Official** — a creative **Front-End Web Developer** who loves crafting modern, responsive, and user-centered web experiences.
