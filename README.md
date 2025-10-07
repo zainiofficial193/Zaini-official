@@ -31,4 +31,4 @@ Zaini Official | Front-End Developer | Web Developer from Pakistan | Creative De
 
 ---
 
-✣ *"Turning ideas into clean, modern, and inspiring web experiences."*
+⚙ *"Turning ideas into clean, modern, and inspiring web experiences."*
