@@ -13,12 +13,12 @@ I’m **Zain Ali**, also known as **Zaini Official** — a creative **Front-End 
 
 ---
 
-### 🚀 My Vision
+### ✈ My Vision
 To build visually powerful and functionally smooth web experiences that inspire and connect people worldwide.
 
 ---
 
-### 🌍 Explore My Work
+### ⚝ Explore My Work
 - **Portfolio:** [zainiofficial.netlify.app](https://zainiofficial.netlify.app)  
 - **Instagram:** [@_zaini_official](https://www.instagram.com/_zaini_official)  
 - **Twitter (X):** [@zainiofficial19](https://x.com/zainiofficial19)  
@@ -26,9 +26,9 @@ To build visually powerful and functionally smooth web experiences that inspire 
 
 ---
 
-### 🏆 Keywords for Google
+### ✸ Keywords for Google
 Zaini Official | Front-End Developer | Web Developer from Pakistan | Creative Designer | JavaScript | Portfolio Website | Zain Ali | HTML | CSS | PHP | Responsive Websites  
 
 ---
 
-✨ *"Turning ideas into clean, modern, and inspiring web experiences."*
+✣ *"Turning ideas into clean, modern, and inspiring web experiences."*
